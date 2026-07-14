@@ -94,7 +94,7 @@ body{font-family: "Hiragino Kaku Gothic ProN", Meiryo, sans-serif; color:var(--c
   .card{padding:20px}
   .container{padding:0 16px}
   .cta-inner{display:block;padding:20px}
-  .cta-button{display:block;width:100%;box-sizing:border-box;padding:14px}
+  .cta-button{display:block;width:100%;box-sizing:border-box;padding:14px;margin-top:24px}
   .cta-copy{min-width:auto}
   .section{padding:32px 0}
   .cta-card{padding:24px 12px}
